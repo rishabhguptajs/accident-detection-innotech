@@ -111,3 +111,40 @@ nav{
         width: 100%;
     }
 }
+
+.usecases-detail{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1em 3em;
+}
+
+#hr-seperator-usecases{
+    width: 100%;
+    height: 1px;
+    background-color: #a0aec0;
+    margin: 1em 0;
+
+}
+
+.card1-title, .card2-title, .card3-title{
+    font-family: 'Sofia Sans Semi Condensed', sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+    margin: 1em 0;
+
+}
+.card1-content, .card2-content, .card3-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card1-content p, .card2-content p, .card3-content p{
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.2rem;
+    text-align: center;
+    margin: 1em 0;
+}
