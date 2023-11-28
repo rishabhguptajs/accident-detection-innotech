@@ -148,3 +148,22 @@ nav{
     text-align: center;
     margin: 1em 0;
 }
+
+
+
+
+
+.contact-title{
+    font-family: 'Sofia Sans Semi Condensed', sans-serif;
+    font-size: 3rem;
+    text-align: center;
+    margin: 1em 0;
+}
+
+#contact-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1em 3em;
+}
