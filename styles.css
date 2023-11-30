@@ -167,3 +167,7 @@ nav{
     align-items: center;
     padding: 1em 3em;
 }
+
+#map { 
+    height: 80vh; 
+}
