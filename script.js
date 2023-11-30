@@ -53,7 +53,6 @@ function displayLocationOnMap(latitude, longitude) {
         attribution: '© OpenStreetMap contributors'
     }).addTo(map);
 
-    // Add a marker at the specified location
     L.marker([latitude, longitude]).addTo(map)
         .bindPopup('Location')
         .openPopup();
