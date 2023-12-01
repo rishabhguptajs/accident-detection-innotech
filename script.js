@@ -44,7 +44,7 @@ function fakeData(event) {
         } else {
             alert("ID not found. Please enter a valid ID.");
         }
-    }, 1000);
+    }, 2000);
 }
 
 function displayLocationOnMap(latitude, longitude) {
