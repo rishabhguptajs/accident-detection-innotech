@@ -48,7 +48,7 @@ function fakeData(event) {
 }
 
 function displayLocationOnMap(latitude, longitude) {
-    const map = L.map('map').setView([latitude, longitude], 10);
+    const map = L.map('map').setView([latitude, longitude], 80);
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '© OpenStreetMap contributors'
     }).addTo(map);
