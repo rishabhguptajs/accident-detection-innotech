@@ -1,5 +1,5 @@
 const fakeDataArray = [
-    { id: "123", latitude: "28.6738", longitude: "77.4375" },  // Ghaziabad
+    { id: "123", latitude: "28.75216166949907", longitude: "77.49841978673575" },  //KIET Group Of Institutions
     { id: "456", latitude: "28.5355", longitude: "77.3910" },  // Noida
     { id: "789", latitude: "28.7041", longitude: "77.1025" },  // Gurgaon
     { id: "101", latitude: "28.6459", longitude: "77.3653" },  // Indirapuram
